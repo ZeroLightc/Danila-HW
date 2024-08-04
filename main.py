@@ -11,5 +11,4 @@ print((2+2*2)==((2+2)*2))
 
 #4th program
 x = float('123.456')
-x1 = (abs(int((x - x*10))))
 print(str(x).split('.')[1][0])
